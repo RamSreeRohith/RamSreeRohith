@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 const rohith = {
-    education: "Master of Science CSE @ [University at Buffalo]",
+    education: "Master of Science CSE @ University at Buffalo",
     interests: ['Machine Learning', 'Full Stack Development', 'AI Research'],
     current: "Building a Diabetes Prediction System & Learning Spring Boot",
     tech: {
